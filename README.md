@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Wal Riz 
+# 👋 Hi, I’m ISAAQ MEHMOOd
 
 🤖 **AI/ML Engineer | Data Scientist**  
-📧 **Email:** [dev.rizw@gmail.com](mailto:dev.rizw@gmail.com)
+📧 **Email:** [Isaqmehmood@gmail.com](Isaqmehmood@gmail.com)
 
 ---
 
