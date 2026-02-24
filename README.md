@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ISAAQ MEHMOOd
+# 👋 Hi, I’m ISAAQ MEHMOOD
 
 🤖 **AI/ML Engineer | Data Scientist**  
 📧 **Email:** [Isaqmehmood@gmail.com](Isaqmehmood@gmail.com)
