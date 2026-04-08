@@ -1,7 +1,7 @@
-# 👋 Hi, I’m ISAAQ MEHMOOD
+# 👋 Hi, I’m Brayan mendoz
 
 🤖 **AI/ML Engineer | Data Scientist**  
-📧 **Email:** [Isaqmehmood@gmail.com](Isaqmehmood@gmail.com)
+📧 **Email:** [bryanmendaz33@gmail.com](bryanmendaz33@gmail.com)
 
 ---
 
